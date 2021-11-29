@@ -1,0 +1,24 @@
+.line {
+    height: 6px;
+    background-color: black;
+    width: 200px;
+    margin: 8px auto;
+}
+body {
+    text-align: center;
+}
+#header {
+    background-color: burlywood;
+    color: black;
+    font-family: cursive;
+}
+h1 {
+    color: cadetblue !important;
+    font-family: cursive;
+}
+img {
+    height: 200px;
+}
+#main {
+    background-color: blueviolet;
+}
