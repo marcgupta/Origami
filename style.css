@@ -22,3 +22,10 @@ img {
 #main {
     background-color: blueviolet;
 }
+.contact_1 a{
+    color: white;
+    text-shadow: none;
+}
+.contact_1 h3 {
+    display: inline;
+}
